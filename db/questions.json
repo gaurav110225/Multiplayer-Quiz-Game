@@ -1,0 +1,102 @@
+[
+    {
+        "question": "If f(x) = x^2 + 2x + 1, what is f'(x)?",
+        "options": [
+            "2x + 1",
+            "x^2 + 2",
+            "2x + 2",
+            "x^2 + 1"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "The SI unit of electric charge is:",
+        "options": [
+            "Coulomb",
+            "Ampere",
+            "Volt",
+            "Ohm"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "The derivative of sin(x) is:",
+        "options": [
+            "-sin(x)",
+            "-cos(x)",
+            "tan(x)",
+            "cos(x)"
+        ],
+        "answer": 4
+    },
+    {
+        "question": "If a car accelerates from 0 to 20 m/s in 5 seconds, what is its acceleration?",
+        "options": [
+            "2 m/s²",
+            "4 m/s²",
+            "5 m/s²",
+            "10 m/s²"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "The kinetic energy of a body of mass m moving with velocity v is given by:",
+        "options": [
+            "1/2 mv^2",
+            "mv^2",
+            "1/2 mv",
+            "m/v^2"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "If ∫ x dx = ?",
+        "options": [
+            "x^2 + C",
+            "x^2/2 + C",
+            "1/x + C",
+            "ln(x) + C"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "The period of a simple pendulum is given by T = 2π√(l/g). If the length is quadrupled, the period becomes:",
+        "options": [
+            "4T",
+            "T/2",
+            "T/4",
+            "2T"
+        ],
+        "answer": 4
+    },
+    {
+        "question": "Newton's second law states that F = ?",
+        "options": [
+            "mv",
+            "ma",
+            "m/a",
+            "m+ a"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "The solution of the differential equation dy/dx = y is:",
+        "options": [
+            "y = e^x",
+            "y = e^(-x)",
+            "y = ln(x)",
+            "y = x^2"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "The unit of magnetic flux is:",
+        "options": [
+            "Tesla",
+            "Henry",
+            "Weber",
+            "Ampere"
+        ],
+        "answer": 3
+    }
+]
